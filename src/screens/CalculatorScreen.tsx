@@ -94,9 +94,6 @@ export const CalculatorScreen = () => {
         </View>
 
 
-
-
-
     </View>
   )
 }
